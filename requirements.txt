@@ -1,0 +1,4 @@
+Django==1.5.2
+beautifulsoup4==4.3.0
+html5lib==0.999-dev
+six==1.4.1
